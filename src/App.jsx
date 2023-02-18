@@ -1,12 +1,12 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import './App.css'
+import React from 'react'
+import {Hero} from "./Components"
+import { heroapi } from './Data/data.js'
 
-function App() {
-
-
+const App = () => {
   return (
-    <div></div>
+    <div>
+      <Hero heroapi={heroapi}/>
+    </div>
   )
 }
 
