@@ -3,10 +3,10 @@ import heroimg from "../assets/hero.png";
 import hightlightimg from "../assets/hightlightimg.png";
 import sneakershoe from "../assets/sneaker.png";
 
-import clip from "../assets/clip.mp4";
-import vcover1 from "../assets/vcover1.png";
-import vcover2 from "../assets/vcover2.png";
-import vcover3 from "../assets/vcover3.png";
+import clip from "../assets/video/clip.mp4";
+import vcover1 from "../assets/video/vcover1.png";
+import vcover2 from "../assets/video/vcover2.png";
+import vcover3 from "../assets/video/vcover3.png";
 
 import psale1 from "../assets/nike-air-red.png";
 import psale2 from "../assets/nike-adapt-bb.png";
